@@ -1,12 +1,10 @@
 package com.example.myapplicationstructure.view.activity;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.view.View;
 
 import com.example.myapplicationstructure.R;
-import com.example.myapplicationstructure.view.BaseView.BaseActivity;
+import com.example.myapplicationstructure.view.base_view.BaseActivity;
 
 public class HomeActivity extends BaseActivity {
 

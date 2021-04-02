@@ -14,8 +14,8 @@ import androidx.lifecycle.ViewModelProviders;
 import com.example.myapplicationstructure.network.APIInterface;
 import com.example.myapplicationstructure.utils.FileUploader;
 import com.example.myapplicationstructure.utils.Util;
-import com.example.myapplicationstructure.view.BaseView.BaseActivity;
-import com.example.myapplicationstructure.view.BaseView.Env;
+import com.example.myapplicationstructure.view.base_view.BaseActivity;
+import com.example.myapplicationstructure.view.base_view.Env;
 import com.example.myapplicationstructure.view_model.UserModel;
 
 import java.io.File;

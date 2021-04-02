@@ -2,7 +2,6 @@ package com.example.myapplicationstructure.utils;
 
 /// Add all global function
 
-import android.app.Activity;
 import android.app.Dialog;
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -14,10 +13,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
-import androidx.core.content.ContextCompat;
 
 import com.example.myapplicationstructure.R;
-import com.example.myapplicationstructure.view.BaseView.Env;
+import com.example.myapplicationstructure.view.base_view.Env;
 import com.google.android.material.snackbar.Snackbar;
 
 public final class Util {

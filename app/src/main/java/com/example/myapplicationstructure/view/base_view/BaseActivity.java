@@ -1,11 +1,7 @@
-package com.example.myapplicationstructure.view.BaseView;
+package com.example.myapplicationstructure.view.base_view;
 
-import android.content.Context;
 import android.os.Bundle;
-import android.view.MotionEvent;
 import android.view.View;
-import android.view.inputmethod.InputMethodManager;
-import android.widget.EditText;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;

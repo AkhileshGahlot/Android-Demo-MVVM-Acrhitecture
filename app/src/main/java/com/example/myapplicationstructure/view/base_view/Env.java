@@ -1,4 +1,4 @@
-package com.example.myapplicationstructure.view.BaseView;
+package com.example.myapplicationstructure.view.base_view;
 
 import android.content.Context;
 

@@ -1,19 +1,15 @@
 package com.example.myapplicationstructure.view.fragment;
 
-import androidx.lifecycle.ViewModelProviders;
-
 import android.os.Bundle;
 
-import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.myapplicationstructure.R;
-import com.example.myapplicationstructure.view.BaseView.BaseFragment;
+import com.example.myapplicationstructure.view.base_view.BaseFragment;
 
 public class BlankFragment extends BaseFragment {
 
